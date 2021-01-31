@@ -1,4 +1,4 @@
 Some core components:
- Component 1
+ Component 1.1
  Component 2.1
- Component 3
+ Submodule 1
