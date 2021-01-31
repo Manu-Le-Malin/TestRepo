@@ -1,0 +1,3 @@
+Some core components:
+ Component 1
+ Component 2
